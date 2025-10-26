@@ -151,15 +151,3 @@ input[type="range"] {
   font-weight: bold;
 }
 
-footer {
-  margin-top: 20px;
-  color: #fff;
-  font-size: 1em;
-  text-align: center;
-  opacity: 0.8;
-}
-
-footer span {
-  color: #00ff99;
-  font-weight: 600;
-}
